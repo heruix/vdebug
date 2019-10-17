@@ -1,6 +1,8 @@
 # vdebug
 码云git地址:https://gitee.com/lougd/vdebug.git
 
+github地址:https://github.com/lougd/vdebug.git
+
 编译完成的程序包:https://pan.baidu.com/s/1krJLAFQEeKQ6aq-BV7NTJw
 
 联系作者：qq:412776488 mail:lougdhr@126.com
